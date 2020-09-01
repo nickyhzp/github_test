@@ -1,3 +1,3 @@
 # github_test
-test github 
+test github; 
 How to use github?
